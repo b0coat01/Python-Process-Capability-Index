@@ -32,6 +32,10 @@ interdependent processes can easily be analyzed and prioritized according to thi
 Cpk is a function of (Average, Variance, Upper Statistical Limit, & Lower Statistical Limit)
 
 
+
+
+
+
 Brandon Coats
 
 brandoncoats@tgautomation.tech
