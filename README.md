@@ -47,6 +47,8 @@ DEPENDENCIES:
 
 
 
+AUTHOR:
+
 Brandon Coats
 
 brandoncoats@tgautomation.tech
