@@ -1,6 +1,6 @@
 "# Python-Process-Capability-Index" 
 
-SUMMARY:
+## SUMMARY:
 
 Python script used to open, parse, and analyze a database contained within a sample CSV file. 
 
@@ -24,7 +24,7 @@ Python script used to open, parse, and analyze a database contained within a sam
          In this case the data is used to construct a histogram of object dimensions for Len, Wid, & Height.
       
       
-DESCRIPTION:
+## DESCRIPTION:
 
 Process Capability Index is a key metric in Sig Sigma used to understand whether or not a processs 
 is capable or not. With a Cpk higher than 0.8 it is commonly accepted that the process is becoming 
@@ -35,7 +35,7 @@ interdependent processes can easily be analyzed and prioritized according to thi
 Cpk is a function of (Average, Variance, Upper Statistical Limit, & Lower Statistical Limit)
 
 
-DEPENDENCIES:
+## DEPENDENCIES:
 
 [1] CSV
 
@@ -47,7 +47,7 @@ DEPENDENCIES:
 
 
 
-AUTHOR:
+## AUTHOR:
 
 Brandon Coats
 
