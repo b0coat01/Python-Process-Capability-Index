@@ -33,5 +33,7 @@ Cpk is a function of (Average, Variance, Upper Statistical Limit, & Lower Statis
 
 
 Brandon Coats
+
 brandoncoats@tgautomation.tech
+
 http://www.tgautomation.tech
