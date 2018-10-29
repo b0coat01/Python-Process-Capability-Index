@@ -3,17 +3,20 @@
 Python script used to open, parse, and analyze a database contained within a sample CSV file. 
 
    [1] The CSV timestamp data is converted over into universal time.
-   ![alt text](./doc/Cpk_DataSample.jpg)
+   
+![alt text](./doc/Cpk_DataSample.jpg)
 
    [2] The universal time is used to calculate process deltas. 
-   ![alt text](./doc/Cpk_DataSample_Filtered.JPG)
+
+![alt text](./doc/Cpk_DataSample_Filtered.JPG)
    
    [3] The deltas are used to calculate to calculate average and variance.
    
    [4] USL & LSL process limtis are hardcoded in the script, but can be calculated if needed.
    
    [5] The Cpk (Process Capability Index) is then calcualted with results printed for the user.
-   ![alt text](./doc/Cpk_Script.JPG)
+
+![alt text](./doc/Cpk_Script.JPG)
       
    [6] As a bonus, some other priority data is captured and stored within matrices for subsequent analysis.
          In this case the data is used to construct a histogram of object dimensions for Len, Wid, & Height.
