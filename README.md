@@ -4,7 +4,7 @@ Python script used to open, parse, and analyze a database contained within a sam
 
    [1] The CSV timestamp data is converted over into universal time.
    
-![alt text](./doc/Cpk_DataSample.jpg)
+![alt text](./doc/Cpk_DataSample.JPG)
 
    [2] The universal time is used to calculate process deltas. 
 
