@@ -36,9 +36,13 @@ Cpk is a function of (Average, Variance, Upper Statistical Limit, & Lower Statis
 
 
 DEPENDENCIES:
+
 [1] CSV
+
 [2] numpy
+
 [3] scipy
+
 [4] sys (debug only, may be omitted)
 
 
